@@ -1,0 +1,17 @@
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_String\bin\Debug\net6.0-windows\Degiskenler_String.exe
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_String\bin\Debug\net6.0-windows\Degiskenler_String.deps.json
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_String\bin\Debug\net6.0-windows\Degiskenler_String.runtimeconfig.json
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_String\bin\Debug\net6.0-windows\Degiskenler_String.dll
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_String\bin\Debug\net6.0-windows\Degiskenler_String.pdb
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_String\obj\Debug\net6.0-windows\Degiskenler_String.csproj.AssemblyReference.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_String\obj\Debug\net6.0-windows\Degiskenler_String.csproj.GenerateResource.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_String\obj\Debug\net6.0-windows\Degiskenler_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_String\obj\Debug\net6.0-windows\Degiskenler_String.AssemblyInfoInputs.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_String\obj\Debug\net6.0-windows\Degiskenler_String.AssemblyInfo.cs
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_String\obj\Debug\net6.0-windows\Degiskenler_String.csproj.CoreCompileInputs.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_String\obj\Debug\net6.0-windows\Degiskenler_String.dll
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_String\obj\Debug\net6.0-windows\refint\Degiskenler_String.dll
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_String\obj\Debug\net6.0-windows\Degiskenler_String.pdb
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_String\obj\Debug\net6.0-windows\Degiskenler_String.genruntimeconfig.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_String\obj\Debug\net6.0-windows\ref\Degiskenler_String.dll
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_String\obj\Debug\net6.0-windows\Degiskenler_String.String.resources
